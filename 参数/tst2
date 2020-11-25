@@ -1,0 +1,938 @@
+
+color_image.rows=480    640
+lostCnt = 1493
+FPS: 21.3414    0.0468624
+color_image.rows=480    640
+lostCnt = 1494
+FPS: 24.9251    0.0401341
+color_image.rows=480    640
+lostCnt = 1495
+FPS: 30.419     0.0328809
+color_image.rows=480    640
+lostCnt = 1496
+FPS: 30.1956    0.033131
+color_image.rows=480    640
+lostCnt = 1497
+FPS: 30.897     0.0323762
+color_image.rows=480    640
+lostCnt = 1498
+FPS: 27.7276    0.036094
+color_image.rows=480    640
+lostCnt = 1499
+FPS: 28.1406    0.0355501
+color_image.rows=480    640
+lostCnt = 1500
+FPS: 29.2981    0.0341467
+color_image.rows=480    640
+lostCnt = 1501
+FPS: 28.6248    0.0349437
+color_image.rows=480    640
+lostCnt = 1502
+FPS: 28.6734    0.034927
+color_image.rows=480    640
+lostCnt = 1503
+FPS: 29.2638    0.0341935
+color_image.rows=480    640
+lostCnt = 1504
+FPS: 32.69      0.0306161
+color_image.rows=480    640
+lostCnt = 1505
+FPS: 31.2444    0.0320289
+color_image.rows=480    640
+lostCnt = 1506
+FPS: 17.6068    0.0568035
+color_image.rows=480    640
+lostCnt = 1507
+FPS: 26.7054    0.0374532
+color_image.rows=480    640
+lostCnt = 1508
+FPS: 29.2867    0.0341644
+color_image.rows=480    640
+lostCnt = 1509
+FPS: 30.8485    0.0324239
+color_image.rows=480    640
+lostCnt = 1510
+FPS: 27.4952    0.0363843
+color_image.rows=480    640
+lostCnt = 1511
+FPS: 31.3654    0.0318957
+color_image.rows=480    640
+lostCnt = 1512
+FPS: 29.1279    0.0343481
+color_image.rows=480    640
+lostCnt = 1513
+FPS: 32.4168    0.0308623
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   245        5       =   centerLocation_    555    325
+四個排序0.458   0.458   0.458   0.458
+四個    0.458
+遍历完成，有效像素点:162
+目标距离：0.45392 m
+
+angle X = -12.0706      angle Y = -30.6895
+FPS: 30.9663    0.0322973
+color_image.rows=480    640
+lostCnt = 1514
+FPS: 32.0648    0.0312294
+color_image.rows=480    640
+lostCnt = 1515
+FPS: 31.4584    0.0318015
+color_image.rows=480    640
+lostCnt = 1516
+FPS: 31.2895    0.0319903
+color_image.rows=480    640
+lostCnt = 1517
+FPS: 30.837     0.0324458
+color_image.rows=480    640
+lostCnt = 1518
+FPS: 30.1848    0.0331481
+color_image.rows=480    640
+lostCnt = 1519
+FPS: 28.423     0.0352033
+color_image.rows=480    640
+lostCnt = 1520
+FPS: 30.3001    0.0330626
+color_image.rows=480    640
+lostCnt = 1521
+FPS: 31.9024    0.0313612
+color_image.rows=480    640
+lostCnt = 1522
+FPS: 32.2651    0.0310156
+color_image.rows=480    640
+lostCnt = 1523
+FPS: 31.1696    0.0320971
+color_image.rows=480    640
+lostCnt = 1524
+FPS: 30.3294    0.0329863
+color_image.rows=480    640
+lostCnt = 1525
+FPS: 31.8342    0.0314333
+color_image.rows=480    640
+lostCnt = 1526
+FPS: 30.5277    0.0327719
+color_image.rows=480    640
+lostCnt = 1527
+FPS: 30.51      0.0327835
+color_image.rows=480    640
+lostCnt = 1528
+FPS: 31.226     0.0320382
+color_image.rows=480    640
+lostCnt = 1529
+FPS: 31.5407    0.0317123
+color_image.rows=480    640
+lostCnt = 1530
+FPS: 29.728     0.0336515
+color_image.rows=480    640
+lostCnt = 1531
+FPS: 31.311     0.0319548
+color_image.rows=480    640
+lostCnt = 1532
+FPS: 29.6916    0.0337045
+color_image.rows=480    640
+lostCnt = 1533
+FPS: 31.3023    0.0319653
+color_image.rows=480    640
+lostCnt = 1534
+FPS: 30.0808    0.0332562
+color_image.rows=480    640
+lostCnt = 1535
+FPS: 29.7206    0.0336519
+color_image.rows=480    640
+lostCnt = 1536
+FPS: 27.2307    0.0367418
+color_image.rows=480    640
+lostCnt = 1537
+FPS: 29.8506    0.0335128
+color_image.rows=480    640
+lostCnt = 1538
+FPS: 30.2656    0.033061
+color_image.rows=480    640
+lostCnt = 1539
+FPS: 29.0428    0.0344479
+color_image.rows=480    640
+lostCnt = 1540
+FPS: 30.0312    0.0333127
+color_image.rows=480    640
+lostCnt = 1541
+FPS: 26.5509    0.0376734
+color_image.rows=480    640
+lostCnt = 1542
+FPS: 34.0804    0.0293616
+color_image.rows=480    640
+lostCnt = 1543
+FPS: 28.1149    0.0356175
+color_image.rows=480    640
+lostCnt = 1544
+FPS: 33.6561    0.0297284
+color_image.rows=480    640
+lostCnt = 1545
+FPS: 29.7968    0.0335785
+color_image.rows=480    640
+lostCnt = 1546
+FPS: 30.1289    0.0332083
+color_image.rows=480    640
+lostCnt = 1547
+
+
+FPS: 27.7412    0.0360623
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   115        27      =   centerLocation_    425    347
+四個排序0.448   0.448   0       0
+兩個    0.448
+遍历完成，有效像素点:158
+目标距离：0.442734 m
+
+angle X = -15.1193      angle Y = -14.6067
+FPS: 30.0113    0.0333254
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   115        45      =   centerLocation_    425    365
+四個排序0.449   0.447   0.447   0.447
+四個    0.4475
+遍历完成，有效像素点:153
+目标距离：0.441516 m
+
+angle X = -17.551       angle Y = -14.6067
+FPS: 30.1345    0.0331972
+color_image.rows=480    640
+lostCnt = 1548
+FPS: 30.6992    0.0326214
+color_image.rows=480    640
+lostCnt = 1549
+FPS: 29.5047    0.0339088
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   115        71      =   centerLocation_    425    391
+四個排序0.442   0.442   0.442   0.442
+四個    0.442
+遍历完成，有效像素点:142
+目标距离：0.436937 m
+
+angle X = -20.9497      angle Y = -14.6067
+FPS: 32.5293    0.0307452
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        77      =   centerLocation_    551    397
+四個排序0.456   0.455   0.455   0.453
+四個    0.45475
+遍历完成，有效像素点:151
+目标距离：0.446868 m
+
+angle X = -21.7135      angle Y = -30.2535
+FPS: 32.8393    0.030456
+color_image.rows=480    640
+lostCnt = 1550
+FPS: 32.3995    0.030871
+color_image.rows=480    640
+lostCnt = 1551
+FPS: 30.9325    0.0323429
+color_image.rows=480    640
+lostCnt = 1552
+FPS: 30.5145    0.0327881
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        101     =   centerLocation_    423    421
+四個排序0.438   0       0       0
+遍历完成，有效像素点:157
+目标距离：0.432268 m
+
+angle X = -24.6874      angle Y = -14.3315
+FPS: 30.2683    0.0330416
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        107     =   centerLocation_    551    427
+四個排序0.449   0.449   0       0
+兩個    0.449
+遍历完成，有效像素点:157
+目标距离：0.441815 m
+
+angle X = -25.4099      angle Y = -30.2535
+FPS: 29.1458    0.034314
+color_image.rows=480    640
+lostCnt = 1553
+FPS: 27.8389    0.0359415
+color_image.rows=480    640
+lostCnt = 1554
+FPS: 28.2712    0.0353868
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   247        111     =   centerLocation_    557    431
+四個排序0.444   0.444   0.444   0.444
+四個    0.444
+遍历完成，有效像素点:169
+目标距离：0.439024 m
+
+angle X = -25.8868      angle Y = -30.906
+FPS: 30.077     0.0332521
+color_image.rows=480    640
+lostCnt = 1555
+FPS: 29.9195    0.0334293
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        105     =   centerLocation_    551    425
+四個排序0.448   0.448   0.448   0.448
+四個    0.448
+遍历完成，有效像素点:159
+目标距离：0.441874 m
+
+angle X = -25.17        angle Y = -30.2535
+FPS: 30.6894    0.032588
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        105     =   centerLocation_    549    425
+四個排序0.449   0.449   0.449   0.449
+四個    0.449
+遍历完成，有效像素点:151
+目标距离：0.442689 m
+
+angle X = -25.17        angle Y = -30.0341
+FPS: 32.1044    0.0311523
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   247        107     =   centerLocation_    557    427
+四個排序0.444   0.444   0.444   0.444
+四個    0.444
+遍历完成，有效像素点:158
+目标距离：0.439785 m
+
+angle X = -25.4099      angle Y = -30.906
+FPS: 30.9861    0.0322765
+color_image.rows=480    640
+lostCnt = 1556
+FPS: 30.7931    0.0324897
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   115        107     =   centerLocation_    425    427
+四個排序0.436   0.436   0.435   0.435
+四個    0.4355
+遍历完成，有效像素点:168
+目标距离：0.431304 m
+
+angle X = -25.4099      angle Y = -14.6067
+FPS: 32.2626    0.031
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        101     =   centerLocation_    549    421
+四個排序0.45    0.45    0.45    0.45
+四個    0.45
+遍历完成，有效像素点:159
+目标距离：0.443503 m
+
+angle X = -24.6874      angle Y = -30.0341
+FPS: 32.8835    0.030415
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        101     =   centerLocation_    549    421
+四個排序0.455   0.452   0.45    0.45
+四個    0.45175
+遍历完成，有效像素点:162
+目标距离：0.444124 m
+
+angle X = -24.6874      angle Y = -30.0341
+FPS: 31.955     0.031301
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   237        99      =   centerLocation_    547    419
+四個排序0.451   0.451   0.451   0.451
+四個    0.451
+遍历完成，有效像素点:146
+目标距离：0.444911 m
+
+angle X = -24.4446      angle Y = -29.8136
+FPS: 31.5905    0.0316597
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        97      =   centerLocation_    423    417
+四個排序0.439   0       0       0
+遍历完成，有效像素点:148
+目标距离：0.432683 m
+
+angle X = -24.201       angle Y = -14.3315
+FPS: 32.5725    0.030707
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   245        101     =   centerLocation_    555    421
+四個排序0.445   0.445   0.445   0.445
+四個    0.445
+遍历完成，有效像素点:153
+目标距离：0.442138 m
+
+angle X = -24.6874      angle Y = -30.6895
+FPS: 30.4798    0.0328134
+color_image.rows=480    640
+lostCnt = 1557
+FPS: 30.0497    0.0332854
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        95      =   centerLocation_    549    415
+四個排序0.45    0.45    0       0
+兩個    0.45
+遍历完成，有效像素点:161
+目标距离：0.444267 m
+
+angle X = -23.9564      angle Y = -30.0341
+FPS: 30.6597    0.0326193
+color_image.rows=480    640
+lostCnt = 1558
+FPS: 31.5973    0.0316611
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        95      =   centerLocation_    549    415
+四個排序0.448   0.448   0.448   0.448
+四個    0.448
+遍历完成，有效像素点:160
+目标距离：0.444225 m
+
+angle X = -23.9564      angle Y = -30.0341
+FPS: 30.343     0.0329597
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   245        99      =   centerLocation_    555    419
+四個排序0.445   0.445   0.445   0.445
+四個    0.445
+遍历完成，有效像素点:146
+目标距离：0.442308 m
+
+angle X = -24.4446      angle Y = -30.6895
+FPS: 29.812     0.033547
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        95      =   centerLocation_    549    415
+四個排序0.449   0       0       0
+遍历完成，有效像素点:160
+目标距离：0.444238 m
+
+angle X = -23.9564      angle Y = -30.0341
+FPS: 29.5428    0.0338545
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        93      =   centerLocation_    549    413
+四個排序0.448   0.448   0.448   0.448
+四個    0.448
+遍历完成，有效像素点:156
+目标距离：0.444026 m
+
+angle X = -23.7108      angle Y = -30.0341
+FPS: 24.7052    0.0404844
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        93      =   centerLocation_    551    413
+四個排序0.449   0.449   0.449   0
+三個    0.44451
+遍历完成，有效像素点:165
+目标距离：0.443934 m
+
+angle X = -23.7108      angle Y = -30.2535
+FPS: 26.6183    0.0375732
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        91      =   centerLocation_    551    411
+四個排序0.45    0.45    0.443   0
+三個    0.44319
+遍历完成，有效像素点:159
+目标距离：0.444302 m
+
+angle X = -23.4644      angle Y = -30.2535
+FPS: 27.7799    0.0360125
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        89      =   centerLocation_    423    409
+四個排序0.439   0.439   0.439   0.439
+四個    0.439
+遍历完成，有效像素点:147
+目标距离：0.434102 m
+
+angle X = -23.217       angle Y = -14.3315
+FPS: 29.8805    0.0334734
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        87      =   centerLocation_    551    407
+四個排序0.45    0.45    0.45    0.45
+四個    0.45
+遍历完成，有效像素点:167
+目标距离：0.444713 m
+
+angle X = -22.9687      angle Y = -30.2535
+FPS: 30.4103    0.0328873
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        83      =   centerLocation_    549    403
+四個排序0.452   0.452   0.444   0.444
+四個    0.448
+遍历完成，有效像素点:147
+目标距离：0.44598 m
+
+angle X = -22.4693      angle Y = -30.0341
+FPS: 30.1246    0.0332018
+color_image.rows=480    640
+lostCnt = 1559
+FPS: 28.7798    0.0347536
+color_image.rows=480    640
+lostCnt = 1560
+FPS: 31.8774    0.0313823
+color_image.rows=480    640
+lostCnt = 1561
+FPS: 30.0646    0.0332761
+color_image.rows=480    640
+lostCnt = 1562
+FPS: 30.6952    0.0325897
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        85      =   centerLocation_    423    405
+四個排序0.441   0.441   0.441   0.441
+四個    0.441
+遍历完成，有效像素点:156
+目标距离：0.435314 m
+
+angle X = -22.7195      angle Y = -14.3315
+FPS: 29.1548    0.0343032
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        83      =   centerLocation_    423    403
+四個排序0.441   0       0       0
+遍历完成，有效像素点:151
+目标距离：0.435126 m
+
+angle X = -22.4693      angle Y = -14.3315
+FPS: 18.9063    0.0528981
+color_image.rows=480    640
+lostCnt = 1563
+FPS: 28.6789    0.0349167
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        83      =   centerLocation_    551    403
+四個排序0.449   0.449   0.449   0.443
+四個    0.4475
+遍历完成，有效像素点:155
+目标距离：0.444471 m
+
+angle X = -22.4693      angle Y = -30.2535
+FPS: 31.0647    0.0321942
+color_image.rows=480    640
+lostCnt = 1564
+FPS: 29.5313    0.0338769
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        81      =   centerLocation_    549    401
+四個排序0.451   0       0       0
+遍历完成，有效像素点:155
+目标距离：0.445361 m
+
+angle X = -22.2183      angle Y = -30.0341
+FPS: 32.7767    0.0305129
+color_image.rows=480    640
+lostCnt = 1565
+FPS: 31.7356    0.0315359
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        85      =   centerLocation_    551    405
+四個排序0.45    0       0       0
+遍历完成，有效像素点:156
+目标距离：0.44493 m
+
+angle X = -22.7195      angle Y = -30.2535
+FPS: 29.436     0.0339764
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        85      =   centerLocation_    549    405
+四個排序0.451   0       0       0
+遍历完成，有效像素点:151
+目标距离：0.445762 m
+
+angle X = -22.7195      angle Y = -30.0341
+FPS: 29.9111    0.0334378
+color_image.rows=480    640
+lostCnt = 1566
+FPS: 29.7893    0.0335829
+color_image.rows=480    640
+lostCnt = 1567
+FPS: 29.1057    0.0343653
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        79      =   centerLocation_    421    399
+四個排序0.444   0.443   0.443   0
+三個    0.4389
+遍历完成，有效像素点:168
+目标距离：0.436321 m
+
+angle X = -21.9664      angle Y = -14.0557
+FPS: 26.8204    0.0373045
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        79      =   centerLocation_    551    399
+四個排序0.451   0.451   0       0
+兩個    0.451
+遍历完成，有效像素点:162
+目标距离：0.44542 m
+
+angle X = -21.9664      angle Y = -30.2535
+FPS: 27.4412    0.0364627
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   237        79      =   centerLocation_    547    399
+四個排序0.453   0.453   0.453   0.453
+四個    0.453
+遍历完成，有效像素点:160
+目标距离：0.447563 m
+
+angle X = -21.9664      angle Y = -29.8136
+FPS: 29.0872    0.0343839
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        79      =   centerLocation_    421    399
+四個排序0.443   0.443   0       0
+兩個    0.443
+遍历完成，有效像素点:167
+目标距离：0.436323 m
+
+angle X = -21.9664      angle Y = -14.0557
+FPS: 28.1408    0.0355406
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        79      =   centerLocation_    549    399
+四個排序0.452   0.452   0       0
+兩個    0.452
+遍历完成，有效像素点:156
+目标距离：0.44618 m
+
+angle X = -21.9664      angle Y = -30.0341
+FPS: 30.3717    0.0329299
+color_image.rows=480    640
+lostCnt = 1568
+FPS: 22.8055    0.0438625
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        81      =   centerLocation_    421    401
+四個排序0.443   0.435   0       0
+兩個    0.439
+遍历完成，有效像素点:159
+目标距离：0.435729 m
+
+angle X = -22.2183      angle Y = -14.0557
+FPS: 29.71      0.033673
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        83      =   centerLocation_    423    403
+四個排序0.441   0.44    0.44    0.44
+四個    0.44025
+遍历完成，有效像素点:151
+目标距离：0.435463 m
+
+angle X = -22.4693      angle Y = -14.3315
+FPS: 30.0764    0.0332558
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        81      =   centerLocation_    421    401
+四個排序0.443   0.435   0       0
+兩個    0.439
+遍历完成，有效像素点:158
+目标距离：0.436038 m
+
+angle X = -22.2183      angle Y = -14.0557
+FPS: 30.379     0.0329216
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        81      =   centerLocation_    423    401
+四個排序0.441   0.435   0       0
+兩個    0.438
+遍历完成，有效像素点:149
+目标距离：0.434906 m
+
+angle X = -22.2183      angle Y = -14.3315
+FPS: 29.3445    0.0340834
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        81      =   centerLocation_    423    401
+四個排序0.44    0.44    0.44    0.435
+四個    0.43875
+遍历完成，有效像素点:149
+目标距离：0.435429 m
+
+angle X = -22.2183      angle Y = -14.3315
+FPS: 30.2783    0.0330303
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        79      =   centerLocation_    549    399
+四個排序0.452   0.452   0       0
+兩個    0.452
+遍历完成，有效像素点:156
+目标距离：0.446558 m
+
+angle X = -21.9664      angle Y = -30.0341
+FPS: 30.7102    0.0325675
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        79      =   centerLocation_    423    399
+四個排序0.442   0       0       0
+遍历完成，有效像素点:158
+目标距离：0.435291 m
+
+angle X = -21.9664      angle Y = -14.3315
+FPS: 30.5999    0.0326833
+color_image.rows=480    640
+lostCnt = 1569
+FPS: 30.8873    0.0323893
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        77      =   centerLocation_    549    397
+四個排序0.452   0.452   0       0
+兩個    0.452
+遍历完成，有效像素点:149
+目标距离：0.446349 m
+
+angle X = -21.7135      angle Y = -30.0341
+FPS: 32.0764    0.0311794
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        77      =   centerLocation_    423    397
+四個排序0.442   0.442   0       0
+兩個    0.442
+遍历完成，有效像素点:159
+目标距离：0.435641 m
+
+angle X = -21.7135      angle Y = -14.3315
+FPS: 30.5995    0.0326867
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        77      =   centerLocation_    421    397
+四個排序0.444   0.444   0       0
+兩個    0.444
+遍历完成，有效像素点:169
+目标距离：0.436473 m
+
+angle X = -21.7135      angle Y = -14.0557
+FPS: 32.179     0.0310802
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        77      =   centerLocation_    423    397
+四個排序0.442   0.442   0       0
+兩個    0.442
+遍历完成，有效像素点:159
+目标距离：0.435729 m
+
+angle X = -21.7135      angle Y = -14.3315
+FPS: 24.5343    0.0407668
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   237        79      =   centerLocation_    547    399
+四個排序0.453   0.453   0.453   0.453
+四個    0.453
+遍历完成，有效像素点:158
+目标距离：0.447373 m
+
+angle X = -21.9664      angle Y = -29.8136
+FPS: 31.8288    0.0314255
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        81      =   centerLocation_    423    401
+四個排序0.44    0.44    0.44    0.44
+四個    0.44
+遍历完成，有效像素点:149
+目标距离：0.435174 m
+
+angle X = -22.2183      angle Y = -14.3315
+FPS: 31.2977    0.0319562
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        83      =   centerLocation_    551    403
+四個排序0.449   0.449   0.449   0.444
+四個    0.44775
+遍历完成，有效像素点:156
+目标距离：0.444744 m
+
+angle X = -22.4693      angle Y = -30.2535
+FPS: 31.5695    0.031682
+color_image.rows=480    640
+lostCnt = 1570
+FPS: 30.4792    0.0328157
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        81      =   centerLocation_    423    401
+四個排序0.44    0.44    0.435   0.435
+四個    0.4375
+遍历完成，有效像素点:149
+目标距离：0.434711 m
+
+angle X = -22.2183      angle Y = -14.3315
+FPS: 30.8772    0.03239
+color_image.rows=480    640
+lostCnt = 1571
+FPS: 32.2769    0.031012
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        85      =   centerLocation_    549    405
+四個排序0.451   0       0       0
+遍历完成，有效像素点:150
+目标距离：0.445333 m
+
+angle X = -22.7195      angle Y = -30.0341
+FPS: 33.1335    0.0301854
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        85      =   centerLocation_    423    405
+四個排序0.44    0.44    0.44    0.44
+四個    0.44
+遍历完成，有效像素点:156
+目标距离：0.435045 m
+
+angle X = -22.7195      angle Y = -14.3315
+FPS: 32.2827    0.0309808
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   237        85      =   centerLocation_    547    405
+四個排序0.452   0.452   0       0
+兩個    0.452
+遍历完成，有效像素点:148
+目标距离：0.446264 m
+
+angle X = -22.7195      angle Y = -29.8136
+FPS: 32.3428    0.0309219
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   245        87      =   centerLocation_    555    407
+四個排序0.448   0.447   0.447   0.447
+四個    0.44725
+遍历完成，有效像素点:158
+目标距离：0.443525 m
+
+angle X = -22.9687      angle Y = -30.6895
+FPS: 31.9193    0.0313413
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        81      =   centerLocation_    551    401
+四個排序0.45    0       0       0
+遍历完成，有效像素点:163
+目标距离：0.444491 m
+
+angle X = -22.2183      angle Y = -30.2535
+FPS: 31.7363    0.0315149
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        81      =   centerLocation_    423    401
+四個排序0.441   0.435   0.435   0
+三個    0.43263
+遍历完成，有效像素点:149
+目标距离：0.435054 m
+
+angle X = -22.2183      angle Y = -14.3315
+FPS: 29.7525    0.0336162
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        83      =   centerLocation_    549    403
+四個排序0.45    0.45    0.45    0.45
+四個    0.45
+遍历完成，有效像素点:146
+目标距离：0.44537 m
+
+angle X = -22.4693      angle Y = -30.0341
+FPS: 32.2816    0.0309819
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        83      =   centerLocation_    423    403
+四個排序0.44    0.44    0.44    0.44
+四個    0.44
+遍历完成，有效像素点:151
+目标距离：0.435139 m
+
+angle X = -22.4693      angle Y = -14.3315
+FPS: 30.8661    0.0324011
+color_image.rows=480    640
+lostCnt = 1572
+FPS: 31.901     0.0313604
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        85      =   centerLocation_    549    405
+四個排序0.451   0       0       0
+遍历完成，有效像素点:149
+目标距离：0.445403 m
+
+angle X = -22.7195      angle Y = -30.0341
+FPS: 30.8388    0.0324298
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        85      =   centerLocation_    421    405
+四個排序0.443   0       0       0
+遍历完成，有效像素点:163
+目标距离：0.436233 m
+
+angle X = -22.7195      angle Y = -14.0557
+FPS: 32.8974    0.030404
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        85      =   centerLocation_    549    405
+四個排序0.451   0.451   0.451   0
+三個    0.44649
+遍历完成，有效像素点:151
+目标距离：0.446047 m
+
+angle X = -22.7195      angle Y = -30.0341
+FPS: 28.2341    0.0354273
+color_image.rows=480    640
+lostCnt = 1573
+FPS: 31.3383    0.031934
+color_image.rows=480    640
+lostCnt = 1574
+FPS: 32.1507    0.0311113
+color_image.rows=480    640
+lostCnt = 1575
+FPS: 30.13      0.0332022
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        77      =   centerLocation_    421    397
+四個排序0.444   0       0       0
+遍历完成，有效像素点:169
+目标距离：0.436367 m
+
+angle X = -21.7135      angle Y = -14.0557
+FPS: 31.5258    0.0317242
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        77      =   centerLocation_    421    397
+四個排序0.443   0.443   0       0
+兩個    0.443
+遍历完成，有效像素点:169
+目标距离：0.436479 m
+
+angle X = -21.7135      angle Y = -14.0557
+FPS: 33.0217    0.0302881
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        77      =   centerLocation_    421    397
+四個排序0.443   0       0       0
+遍历完成，有效像素点:168
+目标距离：0.436541 m
+
+angle X = -21.7135      angle Y = -14.0557
+FPS: 30.0966    0.0332389
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        79      =   centerLocation_    423    399
+四個排序0.442   0       0       0
+遍历完成，有效像素点:157
+目标距离：0.435433 m
+
+angle X = -21.9664      angle Y = -14.3315
+FPS: 30.9363    0.0323307
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        77      =   centerLocation_    423    397
+四個排序0.443   0       0       0
+遍历完成，有效像素点:157
+目标距离：0.435579 m
+
+angle X = -21.7135      angle Y = -14.3315
+FPS: 30.9524    0.0323117
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        77      =   centerLocation_    421    397
+四個排序0.444   0.444   0       0
+兩個    0.444
+遍历完成，有效像素点:168
+目标距离：0.436434 m
+
+angle X = -21.7135      angle Y = -14.0557
+FPS: 33.3849    0.0299603
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   111        77      =   centerLocation_    421    397
+四個排序0.444   0.444   0       0
+兩個    0.444
+遍历完成，有效像素点:169
+目标距离：0.436284 m
+
+angle X = -21.7135      angle Y = -14.0557
+FPS: 34.3855    0.0290863
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   239        77      =   centerLocation_    549    397
+四個排序0.451   0.451   0.451   0.451
+四個    0.451
+遍历完成，有效像素点:149
+目标距离：0.446705 m
+
+angle X = -21.7135      angle Y = -30.0341
+FPS: 34.6959    0.0288253
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        77      =   centerLocation_    423    397
+四個排序0.442   0.442   0       0
+兩個    0.442
+遍历完成，有效像素点:159
+目标距离：0.435522 m
+
+angle X = -21.7135      angle Y = -14.3315
+FPS: 34.0866    0.0293482
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        77      =   centerLocation_    551    397
+四個排序0.451   0.451   0.451   0.451
+四個    0.451
+遍历完成，有效像素点:152
+目标距离：0.445658 m
+
+angle X = -21.7135      angle Y = -30.2535
+FPS: 29.2958    0.0341577
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        77      =   centerLocation_    423    397
+四個排序0.442   0       0       0
+遍历完成，有效像素点:159
+目标距离：0.435742 m
+
+angle X = -21.7135      angle Y = -14.3315
+FPS: 27.3498    0.0365721
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   241        77      =   centerLocation_    551    397
+四個排序0.451   0.451   0       0
+兩個    0.451
+遍历完成，有效像素点:152
+目标距离：0.445461 m
+
+angle X = -21.7135      angle Y = -30.2535
+FPS: 26.6961    0.037464
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        77      =   centerLocation_    423    397
+四個排序0.443   0       0       0
+遍历完成，有效像素点:158
+目标距离：0.435601 m
+
+angle X = -21.7135      angle Y = -14.3315
+FPS: 32.8945    0.030404
+color_image.rows=480    640
+lostCnt = 1576
+FPS: 31.7331    0.0315257
+color_image.rows=480    640
+310     roi_region_   320       +  cvRound   113        75      =   centerLocation_    423    395
+四個排序0.443   0       0       0
+遍历完成，有效像素点:153
+目标距离：0.435653 m
+
+angle X = -21.4598      angle Y = -14.3315
+FPS: 32.8691    0.0304279
