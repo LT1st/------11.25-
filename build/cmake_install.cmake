@@ -1,4 +1,4 @@
-# Install script for directory: /media/burn-e/YSY/合并成功 (11.25)
+# Install script for directory: /media/steven/YSY/合并成功 (11.25)
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/burn-e/YSY/合并成功 (11.25)/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/steven/YSY/合并成功 (11.25)/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

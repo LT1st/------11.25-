@@ -326,6 +326,7 @@ int main()
         mid_color_image = color_image.clone();
         Mat check_hsv_image = color_image.clone();
         cvtColor(check_hsv_image, check_hsv_image, COLOR_BGR2HSV);
+        
         CheckBallOrder(check_hsv_image);
         //mid_color_image = mid_color_image(Rect(color_image.cols/2,color_image.rows*3/4,color_image.rows/4,color_image.cols/2)).clone(); 
           

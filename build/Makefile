@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/media/burn-e/YSY/合并成功 (11.25)"
+CMAKE_SOURCE_DIR = "/media/steven/YSY/合并成功 (11.25)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/media/burn-e/YSY/合并成功 (11.25)/build"
+CMAKE_BINARY_DIR = "/media/steven/YSY/合并成功 (11.25)/build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -176,6 +176,33 @@ src/deviation_angle.s: src/deviation_angle.cpp.s
 src/deviation_angle.cpp.s:
 	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/src/deviation_angle.cpp.s
 .PHONY : src/deviation_angle.cpp.s
+
+src/find_bucket.o: src/find_bucket.cpp.o
+
+.PHONY : src/find_bucket.o
+
+# target to build an object file
+src/find_bucket.cpp.o:
+	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/src/find_bucket.cpp.o
+.PHONY : src/find_bucket.cpp.o
+
+src/find_bucket.i: src/find_bucket.cpp.i
+
+.PHONY : src/find_bucket.i
+
+# target to preprocess a source file
+src/find_bucket.cpp.i:
+	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/src/find_bucket.cpp.i
+.PHONY : src/find_bucket.cpp.i
+
+src/find_bucket.s: src/find_bucket.cpp.s
+
+.PHONY : src/find_bucket.s
+
+# target to generate assembly for a file
+src/find_bucket.cpp.s:
+	$(MAKE) -f CMakeFiles/Test.dir/build.make CMakeFiles/Test.dir/src/find_bucket.cpp.s
+.PHONY : src/find_bucket.cpp.s
 
 src/find_cicles.o: src/find_cicles.cpp.o
 
@@ -354,6 +381,9 @@ help:
 	@echo "... src/deviation_angle.o"
 	@echo "... src/deviation_angle.i"
 	@echo "... src/deviation_angle.s"
+	@echo "... src/find_bucket.o"
+	@echo "... src/find_bucket.i"
+	@echo "... src/find_bucket.s"
 	@echo "... src/find_cicles.o"
 	@echo "... src/find_cicles.i"
 	@echo "... src/find_cicles.s"

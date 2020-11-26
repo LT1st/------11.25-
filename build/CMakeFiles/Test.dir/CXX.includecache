@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/media/burn-e/YSY/合并成功 (11.25)/src/ConstVariate.h
+/media/steven/YSY/合并成功 (11.25)/src/ConstVariate.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/detect.cpp
+/media/steven/YSY/合并成功 (11.25)/src/detect.cpp
 detect.h
-/media/burn-e/YSY/合并成功 (11.25)/src/detect.h
+/media/steven/YSY/合并成功 (11.25)/src/detect.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/detect.h
+/media/steven/YSY/合并成功 (11.25)/src/detect.h
 iostream
 -
 string
@@ -28,11 +28,11 @@ opencv2/imgproc/types_c.h
 opencv2/opencv.hpp
 -
 
-/media/burn-e/YSY/合并成功 (11.25)/src/deviation_angle.cpp
+/media/steven/YSY/合并成功 (11.25)/src/deviation_angle.cpp
 deviation_angle.h
-/media/burn-e/YSY/合并成功 (11.25)/src/deviation_angle.h
+/media/steven/YSY/合并成功 (11.25)/src/deviation_angle.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/deviation_angle.h
+/media/steven/YSY/合并成功 (11.25)/src/deviation_angle.h
 iostream
 -
 string
@@ -48,11 +48,11 @@ opencv2/imgproc/types_c.h
 opencv2/opencv.hpp
 -
 
-/media/burn-e/YSY/合并成功 (11.25)/src/find_cicles.cpp
-find_cicles.h
-/media/burn-e/YSY/合并成功 (11.25)/src/find_cicles.h
+/media/steven/YSY/合并成功 (11.25)/src/find_bucket.cpp
+find_bucket.h
+/media/steven/YSY/合并成功 (11.25)/src/find_bucket.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/find_cicles.h
+/media/steven/YSY/合并成功 (11.25)/src/find_bucket.h
 iostream
 -
 string
@@ -68,11 +68,31 @@ opencv2/imgproc/types_c.h
 opencv2/opencv.hpp
 -
 
-/media/burn-e/YSY/合并成功 (11.25)/src/getdepth_green.cpp
-getdepth_green.h
-/media/burn-e/YSY/合并成功 (11.25)/src/getdepth_green.h
+/media/steven/YSY/合并成功 (11.25)/src/find_cicles.cpp
+find_cicles.h
+/media/steven/YSY/合并成功 (11.25)/src/find_cicles.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/getdepth_green.h
+/media/steven/YSY/合并成功 (11.25)/src/find_cicles.h
+iostream
+-
+string
+-
+opencv2/core.hpp
+-
+opencv2/highgui.hpp
+-
+opencv2/imgproc.hpp
+-
+opencv2/imgproc/types_c.h
+-
+opencv2/opencv.hpp
+-
+
+/media/steven/YSY/合并成功 (11.25)/src/getdepth_green.cpp
+getdepth_green.h
+/media/steven/YSY/合并成功 (11.25)/src/getdepth_green.h
+
+/media/steven/YSY/合并成功 (11.25)/src/getdepth_green.h
 iostream
 -
 sstream
@@ -98,11 +118,11 @@ librealsense2/rs.hpp
 librealsense2/rsutil.h
 -
 
-/media/burn-e/YSY/合并成功 (11.25)/src/hough_round.cpp
+/media/steven/YSY/合并成功 (11.25)/src/hough_round.cpp
 hough_round.h
-/media/burn-e/YSY/合并成功 (11.25)/src/hough_round.h
+/media/steven/YSY/合并成功 (11.25)/src/hough_round.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/hough_round.h
+/media/steven/YSY/合并成功 (11.25)/src/hough_round.h
 iostream
 -
 string
@@ -118,7 +138,7 @@ opencv2/imgproc/types_c.h
 opencv2/opencv.hpp
 -
 
-/media/burn-e/YSY/合并成功 (11.25)/src/main.cpp
+/media/steven/YSY/合并成功 (11.25)/src/main.cpp
 iostream
 -
 sstream
@@ -144,25 +164,25 @@ librealsense2/rs.hpp
 librealsense2/rsutil.h
 -
 segcolors.h
-/media/burn-e/YSY/合并成功 (11.25)/src/segcolors.h
+/media/steven/YSY/合并成功 (11.25)/src/segcolors.h
 getdepth_green.h
-/media/burn-e/YSY/合并成功 (11.25)/src/getdepth_green.h
+/media/steven/YSY/合并成功 (11.25)/src/getdepth_green.h
 hough_round.h
-/media/burn-e/YSY/合并成功 (11.25)/src/hough_round.h
+/media/steven/YSY/合并成功 (11.25)/src/hough_round.h
 deviation_angle.h
-/media/burn-e/YSY/合并成功 (11.25)/src/deviation_angle.h
+/media/steven/YSY/合并成功 (11.25)/src/deviation_angle.h
 ConstVariate.h
-/media/burn-e/YSY/合并成功 (11.25)/src/ConstVariate.h
+/media/steven/YSY/合并成功 (11.25)/src/ConstVariate.h
 own_serial.h
-/media/burn-e/YSY/合并成功 (11.25)/src/own_serial.h
+/media/steven/YSY/合并成功 (11.25)/src/own_serial.h
 detect.h
-/media/burn-e/YSY/合并成功 (11.25)/src/detect.h
+/media/steven/YSY/合并成功 (11.25)/src/detect.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/own_serial.cpp
+/media/steven/YSY/合并成功 (11.25)/src/own_serial.cpp
 own_serial.h
-/media/burn-e/YSY/合并成功 (11.25)/src/own_serial.h
+/media/steven/YSY/合并成功 (11.25)/src/own_serial.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/own_serial.h
+/media/steven/YSY/合并成功 (11.25)/src/own_serial.h
 stdio.h
 -
 string.h
@@ -190,11 +210,11 @@ iostream
 poll.h
 -
 
-/media/burn-e/YSY/合并成功 (11.25)/src/segcolors.cpp
+/media/steven/YSY/合并成功 (11.25)/src/segcolors.cpp
 segcolors.h
-/media/burn-e/YSY/合并成功 (11.25)/src/segcolors.h
+/media/steven/YSY/合并成功 (11.25)/src/segcolors.h
 
-/media/burn-e/YSY/合并成功 (11.25)/src/segcolors.h
+/media/steven/YSY/合并成功 (11.25)/src/segcolors.h
 iostream
 -
 string
@@ -340,6 +360,206 @@ sys/select.h
 sys/sysmacros.h
 -
 bits/pthreadtypes.h
+-
+
+/usr/local/include/librealsense2/h/rs_config.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+rs_sensor.h
+/usr/local/include/librealsense2/h/rs_sensor.h
+
+/usr/local/include/librealsense2/h/rs_context.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+
+/usr/local/include/librealsense2/h/rs_device.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+rs_sensor.h
+/usr/local/include/librealsense2/h/rs_sensor.h
+
+/usr/local/include/librealsense2/h/rs_frame.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+
+/usr/local/include/librealsense2/h/rs_option.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+
+/usr/local/include/librealsense2/h/rs_pipeline.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+rs_sensor.h
+/usr/local/include/librealsense2/h/rs_sensor.h
+rs_config.h
+/usr/local/include/librealsense2/h/rs_config.h
+
+/usr/local/include/librealsense2/h/rs_processing.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+rs_sensor.h
+/usr/local/include/librealsense2/h/rs_sensor.h
+rs_option.h
+/usr/local/include/librealsense2/h/rs_option.h
+
+/usr/local/include/librealsense2/h/rs_record_playback.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+
+/usr/local/include/librealsense2/h/rs_sensor.h
+rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+
+/usr/local/include/librealsense2/h/rs_types.h
+
+/usr/local/include/librealsense2/hpp/rs_context.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+rs_record_playback.hpp
+/usr/local/include/librealsense2/hpp/rs_record_playback.hpp
+rs_processing.hpp
+/usr/local/include/librealsense2/hpp/rs_processing.hpp
+
+/usr/local/include/librealsense2/hpp/rs_device.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+rs_sensor.hpp
+/usr/local/include/librealsense2/hpp/rs_sensor.hpp
+array
+-
+
+/usr/local/include/librealsense2/hpp/rs_frame.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+
+/usr/local/include/librealsense2/hpp/rs_options.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+
+/usr/local/include/librealsense2/hpp/rs_pipeline.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+rs_frame.hpp
+/usr/local/include/librealsense2/hpp/rs_frame.hpp
+rs_context.hpp
+/usr/local/include/librealsense2/hpp/rs_context.hpp
+
+/usr/local/include/librealsense2/hpp/rs_processing.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+rs_frame.hpp
+/usr/local/include/librealsense2/hpp/rs_frame.hpp
+rs_options.hpp
+/usr/local/include/librealsense2/hpp/rs_options.hpp
+
+/usr/local/include/librealsense2/hpp/rs_record_playback.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+rs_device.hpp
+/usr/local/include/librealsense2/hpp/rs_device.hpp
+
+/usr/local/include/librealsense2/hpp/rs_sensor.hpp
+rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+rs_frame.hpp
+/usr/local/include/librealsense2/hpp/rs_frame.hpp
+rs_processing.hpp
+/usr/local/include/librealsense2/hpp/rs_processing.hpp
+rs_options.hpp
+/usr/local/include/librealsense2/hpp/rs_options.hpp
+
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+../rs.h
+/usr/local/include/librealsense2/rs.h
+../h/rs_context.h
+/usr/local/include/librealsense2/h/rs_context.h
+../h/rs_device.h
+/usr/local/include/librealsense2/h/rs_device.h
+../h/rs_frame.h
+/usr/local/include/librealsense2/h/rs_frame.h
+../h/rs_processing.h
+/usr/local/include/librealsense2/h/rs_processing.h
+../h/rs_record_playback.h
+/usr/local/include/librealsense2/h/rs_record_playback.h
+../h/rs_sensor.h
+/usr/local/include/librealsense2/h/rs_sensor.h
+../h/rs_pipeline.h
+/usr/local/include/librealsense2/h/rs_pipeline.h
+string
+-
+vector
+-
+memory
+-
+functional
+-
+exception
+-
+iterator
+-
+sstream
+-
+chrono
+-
+
+/usr/local/include/librealsense2/rs.h
+h/rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+h/rs_context.h
+/usr/local/include/librealsense2/h/rs_context.h
+h/rs_device.h
+/usr/local/include/librealsense2/h/rs_device.h
+h/rs_frame.h
+/usr/local/include/librealsense2/h/rs_frame.h
+h/rs_option.h
+/usr/local/include/librealsense2/h/rs_option.h
+h/rs_processing.h
+/usr/local/include/librealsense2/h/rs_processing.h
+h/rs_record_playback.h
+/usr/local/include/librealsense2/h/rs_record_playback.h
+h/rs_sensor.h
+/usr/local/include/librealsense2/h/rs_sensor.h
+
+/usr/local/include/librealsense2/rs.hpp
+rs.h
+/usr/local/include/librealsense2/rs.h
+hpp/rs_types.hpp
+/usr/local/include/librealsense2/hpp/rs_types.hpp
+hpp/rs_context.hpp
+/usr/local/include/librealsense2/hpp/rs_context.hpp
+hpp/rs_device.hpp
+/usr/local/include/librealsense2/hpp/rs_device.hpp
+hpp/rs_frame.hpp
+/usr/local/include/librealsense2/hpp/rs_frame.hpp
+hpp/rs_processing.hpp
+/usr/local/include/librealsense2/hpp/rs_processing.hpp
+hpp/rs_record_playback.hpp
+/usr/local/include/librealsense2/hpp/rs_record_playback.hpp
+hpp/rs_sensor.hpp
+/usr/local/include/librealsense2/hpp/rs_sensor.hpp
+hpp/rs_pipeline.hpp
+/usr/local/include/librealsense2/hpp/rs_pipeline.hpp
+
+/usr/local/include/librealsense2/rsutil.h
+h/rs_types.h
+/usr/local/include/librealsense2/h/rs_types.h
+h/rs_sensor.h
+/usr/local/include/librealsense2/h/rs_sensor.h
+h/rs_frame.h
+/usr/local/include/librealsense2/h/rs_frame.h
+rs.h
+/usr/local/include/librealsense2/rs.h
+assert.h
+/usr/local/include/librealsense2/assert.h
+stdlib.h
+-
+stdbool.h
+-
+stdint.h
+-
+math.h
+-
+float.h
 -
 
 /usr/local/include/opencv4/opencv2/calib3d.hpp

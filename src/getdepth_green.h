@@ -13,6 +13,8 @@
 #include <librealsense2/rs.hpp>
 #include <librealsense2/rsutil.h>
 
+//#define DEBUG
+
 //#include "ConstVariate.h"
 
 using namespace cv;

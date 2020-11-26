@@ -2,11 +2,13 @@
 
 bool CheckBallOrder_ifreasonable()
 {
+    bool ifBallOrderRight = 1;
     for(int i=0; i<5 ;i++)
     {
         if(ballOrder[i] == NONE)
         {
             cout << "初始化时检测到的球有漏掉的\t" << i << endl;
+            break;
         }
     }
     
@@ -22,7 +24,10 @@ bool CheckBallOrder_ifreasonable()
         }
     }
 
-    
+    if((ifBallOrderRight == 1) && (ballOrder[4] != 0))
+    {
+        cout << "球的排序检测到了： " << ballOrder << endl;
+    }
 
     return 1;
 }
@@ -36,12 +41,12 @@ bool CheckBallOrder(Mat roi_init)
         col4Ball_1st = 50 , row4Ball_1st = 50;
         jiangeX=50,jiangeY=2;
     #endif
+    Size range_startdetect = Size(4,4);
 
     for(int i = 0; i < 5 ; i++)
     {
         row4Ball = row4Ball_1st + jiangeX*i;
         col4Ball = col4Ball_1st + jiangeY*i;
-        Size range_startdetect = Size(4,4);
      /*    Rect RectRange_startDetect(row4Ball - range_startdetect.width/2, 
                                 col4Ball - range_startdetect.height/2, 
                                 range_startdetect.width,range_startdetect.height
@@ -66,38 +71,43 @@ bool CheckBallOrder(Mat roi_init)
         readH /= effective_pixel_startdetect; 
         readS /= effective_pixel_startdetect;
         readV /= effective_pixel_startdetect;
-        cout << "\n\n\n";
+
+        #ifdef DEBUG
+        cout << "\n";
+        cout <<"颜色读取： "<< readH << "\t" << readS << "\t" << readV << endl;
+        cout <<"选取的位置：" << row4Ball << "\t" << col4Ball <<endl;
+        #endif 
+
         if(readH > 300 && readH < 360)
         {
             ballOrder[i] = PINK;
-            cout << "pink\t";
+            cout << "\t1 pink\t";
         }
         if(readH > 190 && readH < 360 && readS < 100 && readS > 40 && readV > 180 && readV < 250)
         {
             ballOrder[i] = WHITE;
-            cout << "white\t";
+            cout << "2 white\t";
         }        
         if(readH > 150 && readH < 220 && readS < 120 && readS > 80 && readV < 40 && readV > 0)
         {
             ballOrder[i] = BLACK;
-            cout << "black\t";
+            cout << "3 black\t";
         }
         if(readH > 180 && readH < 250 && readS > 180 && readS < 255 && readV < 130 && readV > 60)
         {
             ballOrder[i] = BLUE;
-            cout << "blue\t";
+            cout << "4 blue\t";
         }
         if(readH > 80 && readH < 130 && readS > 180 && readS < 250 && readV < 150 && readV > 80)
         {
             ballOrder[i] = GREEN;
-            cout << "green\t";
+            cout << "5 green\n";
         }
         else
         {
             ballOrder[i] = 0;
-        }
+        }  
     }
-   
     /* row_CheckBallOrder = roi_init.rows;
     col_CheckBallOrder = roi_init.cols; */
     #ifdef STARTCHECK
@@ -131,8 +141,8 @@ bool CheckBallOrder(Mat roi_init)
     //for()
 
     
-    if(CheckBallOrder_ifreasonable() == 0)
+    if(CheckBallOrder_ifreasonable())
         return 0;//这次没找到
-    if(CheckBallOrder_ifreasonable() == 1)
+    if(CheckBallOrder_ifreasonable())
         return 1;//找到了
 }

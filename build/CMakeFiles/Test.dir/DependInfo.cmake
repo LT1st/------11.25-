@@ -4,14 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/burn-e/YSY/合并成功 (11.25)/src/detect.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/detect.cpp.o"
-  "/media/burn-e/YSY/合并成功 (11.25)/src/deviation_angle.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/deviation_angle.cpp.o"
-  "/media/burn-e/YSY/合并成功 (11.25)/src/find_cicles.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/find_cicles.cpp.o"
-  "/media/burn-e/YSY/合并成功 (11.25)/src/getdepth_green.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/getdepth_green.cpp.o"
-  "/media/burn-e/YSY/合并成功 (11.25)/src/hough_round.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/hough_round.cpp.o"
-  "/media/burn-e/YSY/合并成功 (11.25)/src/main.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/main.cpp.o"
-  "/media/burn-e/YSY/合并成功 (11.25)/src/own_serial.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/own_serial.cpp.o"
-  "/media/burn-e/YSY/合并成功 (11.25)/src/segcolors.cpp" "/media/burn-e/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/segcolors.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/detect.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/detect.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/deviation_angle.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/deviation_angle.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/find_bucket.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/find_bucket.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/find_cicles.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/find_cicles.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/getdepth_green.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/getdepth_green.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/hough_round.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/hough_round.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/main.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/main.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/own_serial.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/own_serial.cpp.o"
+  "/media/steven/YSY/合并成功 (11.25)/src/segcolors.cpp" "/media/steven/YSY/合并成功 (11.25)/build/CMakeFiles/Test.dir/src/segcolors.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -33,6 +34,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/x86_64-linux-gnu"
   "/usr/local/include/pcl-1.11"
   "/usr/include/eigen3"
+  "/usr/local/include"
   )
 
 # Targets to which this target links.

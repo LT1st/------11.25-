@@ -15,7 +15,6 @@ float get_depth_scale(rs2::device dev)
     throw std::runtime_error("Device does not have a depth sensor");
 }
 
-
 //深度图对齐到彩色图函数
 Mat align_Depth2Color(Mat depth,Mat color,rs2::pipeline_profile profile){
     #ifdef DEBUG_DEEP
@@ -43,7 +42,8 @@ Mat align_Depth2Color(Mat depth,Mat color,rs2::pipeline_profile profile){
     cout << "\t深度相机内参：" << g_dpth_ppx << "\t" << g_dpth_ppy << "\t" << g_dpth_fx
          << "\t" << g_dpth_fy  << "\t" << intrinDepth.width << "\t" << intrinDepth.height 
          << "\t" << intrinDepth.model << "\t" << intrinDepth.coeffs << "\n"
-         << "\t彩色相机参数：" << g_color_ppx << "\t" << g_color_ppy << "\t" << g_color_fy << "\t" << g_color_fx << endl;
+         << "\t彩色相机参数(第一次获取)：" << g_color_ppx << "\t" << g_color_ppy << "\t" << g_color_fy << "\t" << g_color_fx << endl;
+    //彩色相机参数(第一次获取)：323.233       241.493 614.427 613.982
     #endif
     //直接获取从深度摄像头坐标系到彩色摄像头坐标系的欧式变换矩阵
     //auto  extrinDepth2Color=depth_stream.get_extrinsics_to(color_stream);

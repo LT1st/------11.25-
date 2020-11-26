@@ -17,6 +17,8 @@ using namespace cv;
 #define BLUE  4
 #define GREEN 5
 
+#define DEBUG
+
 extern int ballOrder[5];
 /*
 功能：检测多个球，f返回位置信息
